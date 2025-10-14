@@ -1,0 +1,13 @@
+{
+    "name": "OfflineTracking",
+    "alias": "offlinetracking",
+    "displayName": "Offline Tracking",
+    "version": "2.0.0",
+    "description": "This module is used to track employees offline",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\OfflineTracking\\App\\Providers\\OfflineTrackingServiceProvider"
+    ],
+    "files": []
+}
