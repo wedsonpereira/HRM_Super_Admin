@@ -2,5 +2,9 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
+<<<<<<< HEAD
 URL=https://czappstudio.com/docs/open-core-hr/addon-setup-2/offline-tracking-5/
+=======
+URL=https://czappstudio.com/docs/open-core-hr/installation-instruction-saas/
+>>>>>>> 1fd72e3c4ecbdca482fb26bb4e1688661e9bde3a
 HotKey=0

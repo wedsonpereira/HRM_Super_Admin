@@ -1,0 +1,13 @@
+{
+    "name": "FaceAttendance",
+    "alias": "faceattendance",
+    "displayName": "Face Attendance",
+    "version": "1.0.2",
+    "description": "Enables face attendance",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FaceAttendance\\Providers\\FaceAttendanceServiceProvider"
+    ],
+    "files": []
+}
